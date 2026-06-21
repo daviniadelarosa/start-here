@@ -8,7 +8,7 @@
 
 | repo | stack | qué mirar |
 |---|---|---|
-| [`api-spring-boot`](#) | Java · Spring Boot · PostgreSQL · RabbitMQ · WebSockets | arquitectura orientada a eventos, mensajería asíncrona, notificaciones en tiempo real, tests, CI/CD, Docker |
+| [`api-spring-boot`](https://github.com/daviniadelarosa/api-spring-boot.git) | Java · Spring Boot · PostgreSQL · RabbitMQ · WebSockets | arquitectura orientada a eventos, mensajería asíncrona, notificaciones en tiempo real, tests, CI/CD, Docker |
 | [`api-node-express`](#) | Node.js · Express · MongoDB | auth JWT, validación, documentación OpenAPI |
 
 ### 🎨 Full Stack end-to-end
