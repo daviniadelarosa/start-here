@@ -8,7 +8,7 @@
 
 | repo | stack | qué mirar |
 |---|---|---|
-| [`api-spring-boot`](#) | Java · Spring Boot · PostgreSQL | arquitectura en capas, tests, CI/CD, Docker |
+| [`api-spring-boot`](#) | Java · Spring Boot · PostgreSQL · RabbitMQ · WebSockets | arquitectura orientada a eventos, mensajería asíncrona, notificaciones en tiempo real, tests, CI/CD, Docker |
 | [`api-node-express`](#) | Node.js · Express · MongoDB | auth JWT, validación, documentación OpenAPI |
 
 ### 🎨 Full Stack end-to-end
